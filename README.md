@@ -1,3 +1,3 @@
--1 hour to complete
+*1 hour to complete
 
--All stories completed.
+*All stories completed.
